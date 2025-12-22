@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 void insert(int val);
 
 int main(){
@@ -52,4 +52,3 @@ int main(){
 
 
 }
-    */
